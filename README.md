@@ -8,11 +8,11 @@ A web application where you can get information about a movie. Just type the nam
 
 ### Screenshots
 
-![Screenshot_2020-08-12 Cine App](/home/akv26/Desktop/Internshala/JohnWick/screenshots/Screenshot_2020-08-12 Cine App.jpg)
+![Screenshot_2020-08-12 Cine App](screenshots/full.jpg)
 
 
 
-![Screenshot from 2020-08-12 14-19-54](/home/akv26/Desktop/Internshala/JohnWick/screenshots/Screenshot from 2020-08-12 14-19-54.png)
+![Screenshot from 2020-08-12 14-19-54](screenshots/input.png)
 
 
 
